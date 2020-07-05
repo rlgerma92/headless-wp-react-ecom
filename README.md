@@ -3,3 +3,5 @@
 - Forked from "gatsby-wordpress-starter" and modified to work with woocommerce rest API
 
 - wp backend managed on flywheel
+
+- Planning on incorporating ACF 
